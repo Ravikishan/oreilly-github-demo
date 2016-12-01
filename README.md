@@ -20,4 +20,4 @@ This repository is © 2015 Christophe Porteneuve, provided under the [MIT licens
 ## Thank You
 
 
-## Happy Learning :)
+## Happy Learning.. :P
